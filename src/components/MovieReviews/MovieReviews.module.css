@@ -1,0 +1,26 @@
+.review {
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
+  .review li {
+    padding: 5px;
+    margin-bottom: 20px;
+  }
+
+  .noreview {
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+
+  .author {
+    font-weight: bold;
+  }
+
+  .loading {
+    margin: 40px;
+    font-size: 20px;
+  }

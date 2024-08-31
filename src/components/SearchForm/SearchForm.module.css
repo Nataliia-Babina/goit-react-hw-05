@@ -1,0 +1,43 @@
+.form {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 40px;
+    gap: 10px;
+}
+
+.input {
+    width: 33%;
+    min-width: 320px;
+    border: 1px solid black;
+    padding-left: 10px; 
+    border-radius: 3px;
+}
+
+.btn {
+    width: 85px;
+    background: rgb(63, 58, 58);
+    color: white;
+    transition: transform 0.3s ease;
+    font-weight: 400;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.list {
+    margin-left: 22px;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: rgb(248, 8, 8);    
+}
